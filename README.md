@@ -2,7 +2,9 @@
 In New York, ensuring public safety is paramount. This project delves into the NYPD Shooting Incident Data, aiming to uncover patterns and predict future incident frequencies. Through rigorous data cleaning, exploratory analysis, and time series modeling using SARIMA, I aim to provide insights that could help first responders strategize.
 
 <div align="center">
-<img src="https://github.com/patrickk-scott/predicting-nyc-shootings-sarima/blob/main/images/police%20analytics%20image.jpg" >
+<img src="https://github.com/patrickk-scott/predicting-nyc-shootings-sarima/blob/main/images/police%20analytics%20image.jpg"
+      width = 300
+      height = 450>
 </div>
 
 # Conclusions
