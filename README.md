@@ -3,8 +3,8 @@ In New York, ensuring public safety is paramount. This project delves into the N
 
 <div align="center">
 <img src="https://github.com/patrickk-scott/predicting-nyc-shootings-sarima/blob/main/images/police%20image.jpg"
-      width = 600
-      height = 400>
+      width = 750
+      height = 500>
 </div>
 
 # Conclusions
